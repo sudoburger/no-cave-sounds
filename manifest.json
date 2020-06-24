@@ -5,9 +5,9 @@
         "name": "No Cave Sounds",
         "uuid": "df1e4031-1b92-419d-90af-3c5838450809",
         "version": [
+            1,
             0,
-            0,
-            1
+            0
         ],
         "min_engine_version": [
             1,
@@ -21,9 +21,9 @@
             "type": "resources", 
             "uuid": "33bdf72a-e42d-4b03-9def-5f0bfc4a5a9f",
             "version": [
+                1,
                 0,
-                0,
-                1
+                0
             ]
         }
     ]
