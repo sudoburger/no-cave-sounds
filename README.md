@@ -6,3 +6,7 @@ Minecraft cave sounds were added to Minecraft Bedrock in 1.16, the Nether Update
 [Click here to download the resource pack.](https://github.com/jmkeol/no-cave-sounds/releases/)
 
 You should then be able to open it and Minecraft will automatically import it.
+## License
+Copyright © 2020 jmkeol
+
+Read [LICENSE](LICENSE) for details.
