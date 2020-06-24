@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§lNothing special, just removes cave sounds.§r\nMade by §bjmkeol§r.\nDownload: §bgithub.com/jmkeol/no-cave-sounds§r",
+        "name": "Cave Sound Remover",
+        "uuid": "df1e4031-1b92-419d-90af-3c5838450809",
+        "version": [
+            0,
+            0,
+            1
+        ],
+        "min_engine_version": [
+            1,
+            14,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "§lNothing special, just removes cave sounds.§r\nMade by §bjmkeol§r.\nDownload: §bgithub.com/jmkeol/no-cave-sounds§r",
+            "type": "resources",
+            "uuid": "33bdf72a-e42d-4b03-9def-5f0bfc4a5a9f",
+            "version": [
+                0,
+                0,
+                1
+            ]
+        }
+    ]
+}
