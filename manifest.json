@@ -1,7 +1,7 @@
 {
     "format_version": 2,
     "header": {
-        "description": "§lNothing special, just silences cave sounds.§r\nMade by §bjmkeol§r.   ·   v1.0\nDownload: §bgithub.com/jmkeol/no-cave-sounds§r",
+        "description": "§lNothing special, just silences cave sounds.§r\nMade by §bjmkeol§r   ·   v1.0\nDownload: §bgithub.com/jmkeol/no-cave-sounds§r",
         "name": "No Cave Sounds",
         "uuid": "df1e4031-1b92-419d-90af-3c5838450809",
         "version": [
@@ -17,7 +17,7 @@
     },
     "modules": [
         {
-            "description": "§lNothing special, just silences cave sounds.§r\nMade by §bjmkeol§r.   ·   v1.0\nDownload: §bgithub.com/jmkeol/no-cave-sounds§r",
+            "description": "§lNothing special, just silences cave sounds.§r\nMade by §bjmkeol§r   ·   v1.0\nDownload: §bgithub.com/jmkeol/no-cave-sounds§r",
             "type": "resources", 
             "uuid": "33bdf72a-e42d-4b03-9def-5f0bfc4a5a9f",
             "version": [
